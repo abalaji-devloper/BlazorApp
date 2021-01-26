@@ -21,7 +21,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 5.0.x
       # Runs a single command using the runners shell
       - name: Restore dependencices
         run: dotnet restore
@@ -34,7 +37,7 @@ jobs:
         run: dotnet test --no-build --verbosity normal
 
       - name: publish
-        run: dotnet publish --configuration Release --no-build   
+        run: dotnet publish --configuration Release --no-build --output ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}   
         
       - name: Azure WebApp
         uses: Azure/webapps-deploy@v2
