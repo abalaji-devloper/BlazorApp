@@ -8,28 +8,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BlazorApp</title>
-    <base href="~/" />
-    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
-    <link href="css/site.css" rel="stylesheet" />
-    <link href="BlazorApp.styles.css" rel="stylesheet" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Wellcome you</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/css/aos.css" rel="stylesheet">
+    <link href="~/css/bootstrap.min.css?ver=1.1.0" rel="stylesheet">
+    <link href="~/css/main.css?ver=1.1.0" rel="stylesheet">
+    <noscript>
+        <style type="text/css">
+            [data-aos] {
+                opacity: 1 !important;
+                transform: translate(0) scale(1) !important;
+            }
+        </style>
+    </noscript>
 </head>
-<body>
+<body id="top">
     <component type="typeof(App)" render-mode="ServerPrerendered" />
 
-    <div id="blazor-error-ui">
-        <environment include="Staging,Production">
-            An error has occurred. This application may no longer respond until reloaded.
-        </environment>
-        <environment include="Development">
-            An unhandled exception has occurred. See browser dev tools for details.
-        </environment>
-        <a href="" class="reload">Reload</a>
-        <a class="dismiss">🗙</a>
-    </div>
 
+    <footer class="footer">
+        <div class="container text-center"><a class="cc-facebook btn btn-link" href="#"><i class="fa fa-facebook fa-2x " aria-hidden="true"></i></a><a class="cc-twitter btn btn-link " href="#"><i class="fa fa-twitter fa-2x " aria-hidden="true"></i></a><a class="cc-google-plus btn btn-link" href="#"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a><a class="cc-instagram btn btn-link" href="#"><i class="fa fa-instagram fa-2x " aria-hidden="true"></i></a></div>
+        <div class="h4 title text-center">A Balaji</div>
+        <div class="text-center text-muted">
+            <p>&copy;  All rights reserved</p>
+        </div>
+    </footer>
+   
     <script src="_framework/blazor.server.js"></script>
+    <script src="~/js/core/jquery.3.2.1.min.js?ver=1.1.0"></script>
+    <script src="~/js/core/popper.min.js?ver=1.1.0"></script>
+    <script src="~/js/core/bootstrap.min.js?ver=1.1.0"></script>
+    <script src="~/js/now-ui-kit.js?ver=1.1.0"></script>
+    <script src="~/js/aos.js?ver=1.1.0"></script>
+    <script src="~/scripts/main.js?ver=1.1.0"></script>
 </body>
 </html>

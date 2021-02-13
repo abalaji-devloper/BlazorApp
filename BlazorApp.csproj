@@ -4,4 +4,49 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\images\balaji.png" />
+  </ItemGroup>
+	<ItemGroup>
+		<None Remove="css\aos.css" />
+		<None Remove="css\bootstrap.min.css" />
+		<None Remove="css\main.css" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <Content Include="css\aos.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="css\bootstrap.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="css\main.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\balaji.png" />
+    <None Include="wwwroot\js\aos.js" />
+    <None Include="wwwroot\js\core\bootstrap.min.js" />
+    <None Include="wwwroot\js\core\jquery.3.2.1.min.js" />
+    <None Include="wwwroot\js\core\popper.min.js" />
+    <None Include="wwwroot\js\now-ui-kit.js" />
+    <None Include="wwwroot\js\plugins\bootstrap-datepicker.js" />
+    <None Include="wwwroot\js\plugins\bootstrap-switch.js" />
+    <None Include="wwwroot\js\plugins\jquery.sharrre.js" />
+    <None Include="wwwroot\js\plugins\nouislider.min.js" />
+    <None Include="wwwroot\scripts\main.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="scripts\core\" />
+    <Folder Include="scripts\plugins\" />
+    <Folder Include="wwwroot\scripts\core\" />
+    <Folder Include="wwwroot\scripts\plugins\" />
+  </ItemGroup>
+
 </Project>

@@ -21,7 +21,6 @@ C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\Razor
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
-C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
@@ -34,7 +33,6 @@ C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\Razor
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
-C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
@@ -56,3 +54,8 @@ C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\ref\B
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\BlazorApp.pdb
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\BlazorApp.genruntimeconfig.cache
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\BlazorApp.csproj.CopyComplete
+C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\published\web.config
+C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\published\appsettings.Development.json
+C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\published\appsettings.json
+C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\published\BlazorApp.deps.json
+C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\published\BlazorApp.runtimeconfig.json
