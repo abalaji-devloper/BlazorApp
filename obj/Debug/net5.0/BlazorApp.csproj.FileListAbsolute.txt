@@ -53,3 +53,8 @@ C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\ref\B
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\BlazorApp.pdb
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\BlazorApp.genruntimeconfig.cache
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\BlazorApp.csproj.CopyComplete
+C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\published\web.config
+C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\published\appsettings.Development.json
+C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\published\appsettings.json
+C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\published\BlazorApp.deps.json
+C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\published\BlazorApp.runtimeconfig.json
