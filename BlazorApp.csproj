@@ -29,6 +29,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="BlazorApp.sln" />
     <None Include="wwwroot\images\balaji.png" />
     <None Include="wwwroot\js\aos.js" />
     <None Include="wwwroot\js\core\bootstrap.min.js" />

@@ -10,7 +10,6 @@ C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\ref\B
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\BlazorApp.pdb
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\BlazorApp.Views.dll
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\bin\Debug\net5.0\BlazorApp.Views.pdb
-C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\BlazorApp.csprojAssemblyReference.cache
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\BlazorApp.AssemblyInfoInputs.cache
 C:\Users\Balaj\OneDrive\Documents\GitHub\Blazer\BlazorApp\obj\Debug\net5.0\BlazorApp.AssemblyInfo.cs
